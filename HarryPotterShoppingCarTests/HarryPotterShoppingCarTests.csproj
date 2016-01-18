@@ -59,6 +59,9 @@
       <Name>HarryPotterShoppingCar</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="User Story.txt" />
+  </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>

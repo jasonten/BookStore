@@ -2,3 +2,4 @@ C:\工作相關資料\TDD\HomeWork\DAY2\BookStore\HarryPotterShoppingCar\bin\Deb
 C:\工作相關資料\TDD\HomeWork\DAY2\BookStore\HarryPotterShoppingCar\bin\Debug\HarryPotterShoppingCar.pdb
 C:\工作相關資料\TDD\HomeWork\DAY2\BookStore\HarryPotterShoppingCar\obj\Debug\HarryPotterShoppingCar.dll
 C:\工作相關資料\TDD\HomeWork\DAY2\BookStore\HarryPotterShoppingCar\obj\Debug\HarryPotterShoppingCar.pdb
+C:\工作相關資料\TDD\HomeWork\DAY2\BookStore\HarryPotterShoppingCar\obj\Debug\HarryPotterShoppingCar.csprojResolveAssemblyReference.cache
