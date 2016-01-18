@@ -1,0 +1,7 @@
+C:\工作相關資料\TDD\HomeWork\DAY2\BookStore\HarryPotterShoppingCarTests\bin\Debug\HarryPotterShoppingCarTests.dll
+C:\工作相關資料\TDD\HomeWork\DAY2\BookStore\HarryPotterShoppingCarTests\bin\Debug\HarryPotterShoppingCarTests.pdb
+C:\工作相關資料\TDD\HomeWork\DAY2\BookStore\HarryPotterShoppingCarTests\bin\Debug\HarryPotterShoppingCar.dll
+C:\工作相關資料\TDD\HomeWork\DAY2\BookStore\HarryPotterShoppingCarTests\bin\Debug\HarryPotterShoppingCar.pdb
+C:\工作相關資料\TDD\HomeWork\DAY2\BookStore\HarryPotterShoppingCarTests\obj\Debug\HarryPotterShoppingCarTests.csprojResolveAssemblyReference.cache
+C:\工作相關資料\TDD\HomeWork\DAY2\BookStore\HarryPotterShoppingCarTests\obj\Debug\HarryPotterShoppingCarTests.dll
+C:\工作相關資料\TDD\HomeWork\DAY2\BookStore\HarryPotterShoppingCarTests\obj\Debug\HarryPotterShoppingCarTests.pdb
