@@ -9,21 +9,21 @@ namespace HarryPotterShoppingCar
     {
         public HarryPotterShoppingCar()
         {
-            var booklists = new List<BookList>()
+            var booklists = new List<Product>()
             {
-             new  BookList(){ BookName = "HarryPotter1",BookCount = 5}
-               , new BookList(){ BookName = "HarryPotter2", BookCount = 1 }
-               , new BookList(){ BookName = "HarryPotter3", BookCount = 3 }
-               , new BookList(){ BookName = "HarryPotter4", BookCount = 4 }
-               , new BookList(){ BookName = "HarryPotter5", BookCount = 2 }
+             new  Product(){ BookName = "HarryPotter1",BookCount = 5}
+               , new Product(){ BookName = "HarryPotter2", BookCount = 1 }
+               , new Product(){ BookName = "HarryPotter3", BookCount = 3 }
+               , new Product(){ BookName = "HarryPotter4", BookCount = 4 }
+               , new Product(){ BookName = "HarryPotter5", BookCount = 2 }
             };
 
-            int price = 1325;
+            int price = 100;
 
             double Total = ShoppingCar(booklists, price);
         }
 
-        public double ShoppingCar(List<BookList> booklists, int price)
+        public double ShoppingCar(List<Product> booklists, int price)
         {
             double Total = 0;
             int MaxCount = 0;
@@ -32,7 +32,7 @@ namespace HarryPotterShoppingCar
             while (MaxCount > 0)
             {
                 int booksCount = 0;
-                for (int books = 0; books < 5; books++)
+                for (int books = 0; books < booklists.Count; books++)
                 {
                     if (booklists[books].BookCount > 0)
                     {
@@ -70,7 +70,7 @@ namespace HarryPotterShoppingCar
             return Total;
         }
     }
-    public class BookList
+    public class Product
     {
         public string BookName { get; set; }
         public int BookCount { get; set; }
